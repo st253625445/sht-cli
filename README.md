@@ -7,8 +7,8 @@ npm install sht-cli -g
 
 ### 2，如何使用？
 
-通过 shtCli create <project-name>创建项目
+通过 shtaoCli create <project-name>创建项目
 
 ```javascript
-shtCli create my-project
+shtaoCli create my-project
 ```

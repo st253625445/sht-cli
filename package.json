@@ -1,10 +1,10 @@
 {
-  "name": "sht-cli",
-  "version": "1.0.0",
+  "name": "shtao-cli",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "bin": {
-    "shtCli": "./bin/cli.js"
+    "shtaoCli": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,17 @@
     "name": "Shao Tao",
     "email": "253625445@qq.com"
   },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/st253625445/sht-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "bugs": {
+    "url": "https://github.com/st253625445/sht-cli/issues"
+  },
+  "homepage": "https://github.com/st253625445/sht-cli#readme",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.1",
